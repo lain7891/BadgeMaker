@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ggzs1T5otGbIMe580vA9dwdFXs5dVKFFx/gIE2miIYxEsiDhpa5C4SMLuoJU8uCcWTBcY3z6tmtFaf8yXQFmRg==",
+  "success": true,
+  "projectFilePath": "/Users/estefanialupo/gt-pt/sandbox/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+  "expectedPackageFiles": [
+    "/Users/estefanialupo/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/estefanialupo/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/estefanialupo/.nuget/packages/system.drawing.common/5.0.2/system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
